@@ -1,3 +1,9 @@
+
+## Blog app in React
+Core functionalities finished.
+1. In process of adding user authentication using Firebase
+2. Admin module and MongoDB
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
